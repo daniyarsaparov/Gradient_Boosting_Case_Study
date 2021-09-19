@@ -1,1 +1,1 @@
-# Gradient_Boosting_Case_Study
+# Gradient_Boosting_Case_Study_Titanic
